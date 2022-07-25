@@ -1,8 +1,11 @@
-.carousel-item,
-.subcription_area {
+.carousel-item {
     background-color: #FCEAE8;
 }
 
 .slider_content {
     margin: 200px 30px;
+}
+
+.subcription_area {
+    background-color: #FCEAE8;
 }
