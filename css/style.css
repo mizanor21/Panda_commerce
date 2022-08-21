@@ -9,3 +9,12 @@
 .subcription_area {
     background-color: #FCEAE8;
 }
+
+.subcription_area #btn_submit {
+    text-decoration: none;
+    background-color: gray;
+    border: none;
+    padding: 10px 50px;
+    color: #FCEAE8;
+    border-radius: 10px;
+}
